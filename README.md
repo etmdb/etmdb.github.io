@@ -1,3 +1,6 @@
+
+[![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/dawitnida/job-stack)
+
 The EtMDB API allows you to manage resources within the Database in a simple, programmatic way using 
 HTTP requests. The endpoints are intuitive and powerful, allowing you to easily make calls 
 to retrieve information or to execute actions directly accessing the database.
