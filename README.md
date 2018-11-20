@@ -19,3 +19,11 @@ Started Guide before diving in below.
 
 How can I access the API? You need to contact us or send us email to get beta access to our API.
 If you can't find your question answered on our FAQs, please send us mail at developers@etmdb.com
+
+# Authors
+
+[Dawit Nida](https://github.com/dawitnida) & [Eyob Woldergiorgis](https://github.com/eyobw)
+
+Let's write our movie history together. (የሃገራችንን ፊልም ታሪክ በጋራ እንፃፍ)
+
+© 2018 [EtMDB](etmdb.com)
