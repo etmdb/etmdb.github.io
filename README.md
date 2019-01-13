@@ -26,4 +26,4 @@ If you can't find your question answered on our FAQs, please send us mail at dev
 
 Let's write our movie history together. (የሃገራችንን ፊልም ታሪክ በጋራ እንፃፍ)
 
-© 2018 [EtMDB](etmdb.com)
+© 2019 [EtMDB](etmdb.com)
